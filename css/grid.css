@@ -14,14 +14,20 @@ Licensed under GPL and MIT
    Base 966px Grid
    ========================================================================== */
    
-	body {min-width: 996px;}
+	body {min-width: 996px;
+/*	background-color: red;
+*/	background-image:url(../images/texture.jpg);
+	
+	
+}
 
 	/* Container */
 	.container {
 		margin-left: auto;
 		margin-right: auto;
 		width: 996px;
-	}
+/*		background-color: black;	
+*/}
 
 	/* Global */
 	.grid_1,

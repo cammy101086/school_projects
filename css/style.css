@@ -4,16 +4,103 @@ Copyright 2013, Josh Cope
 */
 
 /* =============================================================================
-   Site Styles
+
    ========================================================================== */
 nav li {
 	display: inline;
+	
+	
 
 }
 /* =============================================================================
    Page Styles
    ========================================================================== */
 
+header {
+	background-color:#36d792;
+		
+}
+
+#logo_picture{
+}
+
+
+h1 {
+	color:#FFF;
+	background-color:#36d792;
+
+}
+
+container {
+	background-color: #d7eea9;
+}
+
+h2, h3 {
+	color: #529d14;
+}
+
+p {
+	color: #145688;
+}
+
+ul {
+	color:#FFF;
+}
+
+ol {
+	color: #145688;
+}
+
+nav {
+	color:#FFF;
+}
+
+nav li	{
+	color:white;
+}
+#first_column{
+	background-color:#FFF;
+	border:5px solid #36d792;
+	padding:10px;
+	padding-bottom:5px;
+}
+
+#second_column {
+	background-color:#FFF;
+	border:5px solid #36d792;
+	padding:10px;
+	padding-bottom:5px;
+
+}
+#submit_table {
+	background-color:#FFF;
+	border:5px solid #36d792;
+	padding:10px;
+	padding-bottom:5px;
+}
+
+input, textarea, select	{
+	display:block;
+}
+
+textarea	{
+	width:340px;
+}
+footer {
+	background-color:#36d792;
+	padding-top: 5px;
+	margin-top:30px;
+	text-align:center; 
+}		
+
+
+a:visited	{
+	color:white;
+}
+
+a:hover	{
+	color:red;
+}
 /* =============================================================================
    Media Queries
    ========================================================================== */
