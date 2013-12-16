@@ -93,7 +93,9 @@ footer {
 	text-align:center; 
 }		
 
-
+a	{
+	color:white;	
+}
 a:visited	{
 	color:white;
 }
