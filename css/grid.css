@@ -16,7 +16,9 @@ Licensed under GPL and MIT
    
 	body {min-width: 996px;
 /*	background-color: red;
-*/	background-image:url(../images/texture.jpg);
+*/	
+
+background-image:url(../images/texture.jpg);
 	
 	
 }

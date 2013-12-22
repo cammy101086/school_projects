@@ -63,6 +63,8 @@ nav li	{
 	border:5px solid #36d792;
 	padding:10px;
 	padding-bottom:5px;
+	height:600px;
+	overflow:hidden;
 }
 
 #second_column {
@@ -70,6 +72,9 @@ nav li	{
 	border:5px solid #36d792;
 	padding:10px;
 	padding-bottom:5px;
+	height:600px;
+	overflow:scroll;
+
 
 }
 #submit_table {
@@ -77,6 +82,7 @@ nav li	{
 	border:5px solid #36d792;
 	padding:10px;
 	padding-bottom:5px;
+	height:600px;
 }
 
 input, textarea, select	{
