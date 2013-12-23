@@ -64,7 +64,7 @@ nav li	{
 	padding:10px;
 	padding-bottom:5px;
 	height:600px;
-	overflow:hidden;
+	overflow:scroll;
 }
 
 #second_column {
